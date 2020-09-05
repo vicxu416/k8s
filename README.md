@@ -17,4 +17,5 @@
 
 ## K8S Resources
 
+- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 - [k8s components overview](https://kubernetes.io/docs/concepts/overview/components/)
